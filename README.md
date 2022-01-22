@@ -1,0 +1,3 @@
+- Thomas Davenport
+- Currently working as a Junior Software engineer
+- This is a collection of school work and small projects I would like to tackle
